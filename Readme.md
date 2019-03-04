@@ -9,7 +9,7 @@
 ## Trabalhos
 - 01. [peso 1] Refazer carro em python.
 - 02. [peso 1] Fazer calculadora em python (bonus). 
-- 03. [peso 2] Fazer calculadora em java.
+- 03. [peso 2] Fazer PET em java.
 
 ##
 
