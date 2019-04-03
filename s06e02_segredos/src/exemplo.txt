@@ -1,0 +1,50 @@
+
+
+
+$adduser davi 1234
+$adduser ana amora
+$adduser julia juju
+$showusers
+ana, admin, davi, julia
+$adduser davi 3213
+fail: usuario ja existe
+
+
+$login davi 1233
+fail: password invalido
+$login david sena
+fail: usuario nao existe
+$login davi 1234
+$login ana amora
+fail: ja existe um usuario logado
+
+$show
+[:]
+$setsegredo ando com um cartaozinho da juju na carteira 3
+$show
+[davi:ando com um cartaozinho da juju na carteira:3]
+$logout
+$show
+fail: usuario nao esta logado
+$setsegredo
+fail: usuario nao esta logado
+$logout
+$login ana amora
+$setsegredo sujei a casa toda de massinha 4
+$show
+[ana:sujei a casa toda de massinha:4]
+$logout
+$login admin admin
+$setsegredo eu posso ver os segredos de todos 10
+$showall
+[admin:eu posso ver os segredos de todos:10]
+[ana:sujei a casa toda de massinha:4]
+[davi:ando com um cartaozinho da juju na carteira:3]
+
+
+
+
+
+
+
+
