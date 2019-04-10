@@ -81,6 +81,15 @@ class Service{
 }
 
 
+class GerLogin{
+    User currentUser;
+
+    void login(String id, String pass);
+    void logout();
+    User getCurrent();
+}
+
+
 public class Controller {
     public static void main(String[] args) {
         Service service = new Service();
