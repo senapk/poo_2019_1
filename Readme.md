@@ -15,4 +15,47 @@
 - 04. [peso 2] Fazer Topic em java.
 - 05. [peso 1] Escolher entre Contato/Conta para fazer.
 
-##
+## Competências
+- Calculadora e Carro
+    - Encapsulamento
+    - Construtores
+    - Entrada e Saída - Scanner, System.out
+    - toString()
+- Cinema e Topic
+    - Referências Nulas e Instanciação
+- Pet
+    - Gets e Sets para lidar com os limites das variáveis
+    - Validar se vivo para operar realizar ações
+- Contato
+    - Controle de laço
+    - Remoção por índice
+    - Update em lote
+- Conta
+    - Várias operações sobre vetores
+    - Transação com tipos
+    - Operações em lotes sobre transações (estornar)
+    - Impressão formatada
+- JunkFood
+    - Vetor de objetos default
+- Agenda
+    - Uso de Mapas
+    - Busca por padrão
+- Agiota
+    - Controle de Transações
+    - Id sequencial
+    
+
+- Controle de Acesso
+- Herança
+- Sobrescrita
+- Referências Nulas
+- ArrayList (add, get, remove, set)
+- CRUD
+- Interfaces
+    - Comparable e Comparator (Ordenação)
+    - Map
+- Exceções
+    - Básico funcionamento
+    - Associação
+    - Agregação
+    - Composição - Segredos

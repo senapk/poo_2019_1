@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c4ff3eb-5830-44e5-9377-8a6283b1f1da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../s07e01_excessoes/s07e01_excessoes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../s07e01_excessoes/s07e01_excessoes.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../s07e01_excessoes/s07e01_excessoes.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../s07e01_excessoes/src/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../s05e02_agiota/s05e02_agiota.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../s05e02_agiota/s05e02_agiota.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/s06e02_segredos.iws" beforeDir="false" afterPath="$PROJECT_DIR$/s06e02_segredos.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
                 <element signature="e#260#261#0" expanded="true" />
                 <element signature="e#291#292#0" expanded="true" />
@@ -72,7 +69,32 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="s06e02_segredos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="s06e02_segredos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="s06e02_segredos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="s06e02_segredos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="s06e02_segredos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="s06e02_segredos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Excessoes.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -123,13 +145,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1024" height="743" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="28" width="1024" height="740" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Learn" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" weight="0.24874625" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24774323" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="0" />
@@ -203,7 +224,7 @@
     <entry file="file://$PROJECT_DIR$/src/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="e#260#261#0" expanded="true" />
             <element signature="e#291#292#0" expanded="true" />
