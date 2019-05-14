@@ -129,7 +129,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/s09e01_heranca.iml" filepath="$PROJECT_DIR$/s09e01_heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s12e01_trem.iml" filepath="$PROJECT_DIR$/s12e01_trem.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
