@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>13</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>26</x>
+      <y>364</y>
+      <w>442</w>
+      <h>247</h>
+    </coordinates>
+    <panel_attributes>Sistema
+--
+- tweets: Tweet[]
+- usuarios: Usuario[]
+- nextTwId: int
+--
++ addUsuario(id: String): bool
++ getUser(id: String): Usuario
++ twittar(idUser: String, msg: String): bool
+--
+- Criar usuarios
+- Criar tweets</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>338</x>
+      <y>26</y>
+      <w>273</w>
+      <h>286</h>
+    </coordinates>
+    <panel_attributes>Usuario
+--
+- id: String
+- seguidores: Usuario[]
+- seguidos: Usuario[]
+- timeline: Tweet[]
+- myProfile: Tweet[]
+--
++ seguir(other: Usuario)
++ abandonar(other: Usuario)
++ twittar(tweet: Tweet): bool
++ getTweet(idTweet: int)
+--
+- (des)vincular Usuarios
+- entregar tweets
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>26</x>
+      <y>26</y>
+      <w>273</w>
+      <h>247</h>
+    </coordinates>
+    <panel_attributes>Tweet
+{Some Properties}
+--
+-idTweet: int
+-idUsuario: String
+-msg: String
+-likes: String[]
+--
+- darLike(idUser: String)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

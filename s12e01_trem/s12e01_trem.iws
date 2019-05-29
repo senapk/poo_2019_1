@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b32d7b7c-9c99-4f23-bbdc-ced5e24e7d21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../s10e01_abstratos/src/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../s10e01_abstratos/src/UFC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemplos_heranca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../s09e01_heranca/out/production/s09e01_heranca/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../s09e01_heranca/out/production/s09e01_heranca/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../s09e01_heranca/out/production/s09e01_heranca/Gerente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../s09e01_heranca/s09e01_heranca.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/../s09e01_heranca/s09e01_heranca.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../s09e01_heranca/s09e01_heranca.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../s09e01_heranca/s09e01_heranca.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../s09e01_heranca/src/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../s09e01_heranca/src/quixada/ufc/poo/Controller.java" afterDir="false" />
-    </list>
+    <list default="true" id="b32d7b7c-9c99-4f23-bbdc-ced5e24e7d21" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exemplos_heranca.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -34,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="134" column="44" selection-start-line="134" selection-start-column="44" selection-end-line="134" selection-end-column="44" />
+            <state relative-caret-position="2220">
+              <caret line="125" column="31" lean-forward="true" selection-start-line="125" selection-start-column="31" selection-end-line="125" selection-end-column="31" />
               <folding>
                 <element signature="e#148#149#0" expanded="true" />
                 <element signature="e#180#181#0" expanded="true" />
@@ -76,32 +65,10 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="s12e01_trem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="s12e01_trem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="s12e01_trem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="s12e01_trem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="s12e01_trem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RunDashboard">
@@ -141,8 +108,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1366" height="740" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="28" width="1024" height="740" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -202,8 +168,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="134" column="44" selection-start-line="134" selection-start-column="44" selection-end-line="134" selection-end-column="44" />
+        <state relative-caret-position="2220">
+          <caret line="125" column="31" lean-forward="true" selection-start-line="125" selection-start-column="31" selection-end-line="125" selection-end-column="31" />
           <folding>
             <element signature="e#148#149#0" expanded="true" />
             <element signature="e#180#181#0" expanded="true" />
